@@ -22,7 +22,7 @@ useEffect(() => {
   return (
    <div className="flex flex-col justify-center h-screen items-center">
     <h1 className='my-10 text-4xl font-bold'>
-      Chucks's Jokes
+      Chucks' Jokes
     </h1>
     <div className="flex flex-col p-4 border bg-gray-100 justify-center border-green-300 w-[400px] h-[300px] rounded-lg text-center relative">
       <div className="p-3 border rounded-full w-fit absolute -top-4 left-44 shadow-md bg-green-400">
